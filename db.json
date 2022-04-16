@@ -1,0 +1,18 @@
+{
+  "estudiantes": [
+    {
+      "nombre": "vermen",
+      "email": "vermenrainer@gmail.com",
+      "telefono": "3208502824",
+      "nota": "5",
+      "id": 1
+    },
+    {
+      "nombre": "xxxxx",
+      "email": "titaduran@gmail.com",
+      "telefono": "77777",
+      "nota": "4",
+      "id": 2
+    }
+  ]
+}
